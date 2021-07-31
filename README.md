@@ -1,5 +1,5 @@
 # VoiceMusicPlayer
-Implemented python modules to play music by takingvoice as input.
+Implemented python modules to play music by taking voice as input.
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
